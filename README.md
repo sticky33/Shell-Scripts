@@ -1,3 +1,3 @@
-# Shell-Scripts
+# Mac-changer
 
-simple random bash scripts
+simple random bash script to change mac- address of the device.
